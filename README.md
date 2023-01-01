@@ -14,7 +14,13 @@ The blender application can be found in the applcation menu or u can directly st
 5. Copy and paste the link for Debian Linux in the Installation Process of the colab file.
 ![link](https://user-images.githubusercontent.com/60149879/210169909-0e824797-8fb2-40a5-8697-f4d70a8c36e7.png)
 6. Run the remaining codes to install Blender.
-7. You can access the Colab GUI from the remote access panel [remotedesktop.google.com/access](https://remotedesktop.google.com/access)
+7. You can access the Colab GUI from the remote access panel [remotedesktop.google.com/access](https://remotedesktop.google.com/access) the password is the password set during the Installation Process stage.
+
+## Images
+
+![image](https://user-images.githubusercontent.com/60149879/210170352-9a9961c4-daad-4433-828b-8f22be7f6334.png)
+
+![image](https://user-images.githubusercontent.com/60149879/210170544-53b3d452-29d7-4f05-b25a-5df2ed54740f.png)
 
 ### A few notes
 1. You must own a Google account.
